@@ -32,7 +32,8 @@ RAMAS
 #SUBIR A LA NUBE
 #git push: empujar archivos a la nube
 #git remote -v: Muestra las opciones para hacer fetch (jalar) y push (subir)
-git fetch 'nombre carpeta en la nube': sincroniza el log de la nube con el local
-git pull 'origen' 'rama': agrega lo traido por el fetch al area de trabajo
+#git fetch 'nombre carpeta en la nube': sincroniza el log de la nube con el local
+#git pull 'origen' 'rama': agrega lo traido por el fetch al area de trabajo
 
-#CREAR RAMAS EN LA NUBE
+#ELIMINA RAMAS EN LA NUBE
+#git push --delete origin 'nombre rama': para eliminar la rama en la nube
