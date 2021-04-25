@@ -22,11 +22,15 @@ GIT LOG MAS FUNCIONES
 RAMAS
 #git checkout -b 'nombre rama': Crear una nueva rama en el head que nos encontramos
 #git branch: Muestra todas las ramas existentes
-git branch -D 'nombre rama': Elimina la rama
+#git branch -D 'nombre rama': Elimina la rama
 
 
 #MERGE
-git merge 'nombre de la rama':
+#git merge 'nombre de la rama':
 
-#IGNORAR ARCHIVOS
+
+#SUBIR A LA NUBE
+#git push:
+#git remote -v: Muestra las opciones para hacer fetch (jalar) y push (subir)
+
 
