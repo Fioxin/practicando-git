@@ -36,4 +36,4 @@ RAMAS
 #git pull 'origen' 'rama': agrega lo traido por el fetch al area de trabajo
 
 #ELIMINA RAMAS EN LA NUBE
-#git push --delete origin 'nombre rama': para eliminar la rama en la nube
+#git push --delete origin 'nombre rama': para eliminar la rama en la nube.
